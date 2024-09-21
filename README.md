@@ -11,13 +11,13 @@ I am a Computer Science professional with a strong background in software develo
 - **Databases**: MS SQL, PostgreSQL, MySQL, MongoDB, SQL , Dynamo DB, Cassandra
 
 ## Key Projects 📚
-- **[Spark Bootstrap Sampling](https://github.com/bozicschucky/SparkBootstrap)**:Bootstrapping computational analysis on loads of data in specific industries and getting insights on how long a candidate is likely to stay in a certain industry over time.
-- **[Course-Attendence-System](https://github.com/bozicschucky/Course-Attendence-System)**: Built a collection of RESTful web services to automate the process of course attendance taking for students taking courses at university.
-- **[Eccomerce-Frontend](https://github.com/bozicschucky/Eccomerce-Frontend)**: A React Ecommerce app built using react js Resources.
+- **[Spark Bootstrap Sampling]**:Bootstrapping computational analysis on loads of data in specific industries and getting insights on how long a candidate is likely to stay in a certain industry over time.
+- **[Course-Attendence-System]**: Built a collection of RESTful web services to automate the process of course attendance taking for students taking courses at university.
+- **[Eccomerce-Frontend]**: A React Ecommerce app built using react js Resources.
 <!-- - **[Project Name 4]**: Focus on technology, design, and development involved.
 - **[Project Name 5]**: Additional relevant details about the project and its results. -->
 
-You can view these and more [here](https://github.com/bozicschucky?tab=repositories).
+You can view these and more .
 
 ## Leadership & Advocacy 🌟
 <!-- - **CobbleStone Energy**: As Software Engineer, I built. -->
@@ -29,7 +29,7 @@ You can view these and more [here](https://github.com/bozicschucky?tab=repositor
 - **Continuous Learning**: Committed to ongoing professional development by staying updated with the latest tech trends and advancing my coding skills, currently doing my masters.
 
 ## Connect with Me 🔗
-- [Email](charlessekito.work@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/charles-ssekitto-842a4315b/)
+- [Email](sandraluwedde@outlook.com)
+- [LinkedIn](https://www.linkedin.com/in/sandra-luwedde-66b124233/)
 
 I'm looking forward to collaborating on projects that are at the intersection of technology and social good. Let’s connect! 🌍
