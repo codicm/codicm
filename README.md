@@ -5,8 +5,8 @@ I am a Computer Science professional with a strong background in software develo
 
 ## Technical Skills ⚒️
 - **Languages**:  JavaScript, Typescript, Python, Java, GO, Shell
-- **Frameworks & Libraries**:  Flask,Spring Boot, Node js (Express),Fast API, Django, Flask
-- **Tools & Platforms**:Windows, Linux, AWS, Vercel, Digital Ocean
+- **Frameworks & Libraries**:  Flask,Spring Boot, Node js (Express),Fast API, Django
+- **Tools & Platforms**:Windows, Linux, AWS, GCP, Vercel, Digital Ocean
 - **Data Science & AI**: Learning about machine learning concepts and data analysis, applying these to optimize educational outcomes.
 - **Databases**: MS SQL, PostgreSQL, MySQL, MongoDB, SQL , Dynamo DB, Cassandra
 
@@ -29,7 +29,7 @@ You can view these and more .
 - **Continuous Learning**: Committed to ongoing professional development by staying updated with the latest tech trends and advancing my coding skills, currently doing my masters.
 
 ## Connect with Me 🔗
-- [Email](sandraluwedde@outlook.com)
+- [Email](luwedde.sandra@outlook.com)
 - [LinkedIn](https://www.linkedin.com/in/sandra-luwedde-66b124233/)
 
 I'm looking forward to collaborating on projects that are at the intersection of technology and social good. Let’s connect! 🌍
