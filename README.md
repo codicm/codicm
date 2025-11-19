@@ -5,7 +5,7 @@ I am a Computer Science professional with a strong background in software develo
 
 ## Technical Skills ⚒️
 - **Languages**:  JavaScript, Typescript, Python, Java, GO, Shell
-- **Frameworks & Libraries**:  Flask,Spring Boot, Node js (Express),Fast API, Fast AI
+- **Frameworks & Libraries**:  Flask,Spring Boot, Node js (Express),Fast API, Django, Flask
 - **Tools & Platforms**:Windows, Linux, AWS, Vercel, Digital Ocean
 - **Data Science & AI**: Learning about machine learning concepts and data analysis, applying these to optimize educational outcomes.
 - **Databases**: MS SQL, PostgreSQL, MySQL, MongoDB, SQL , Dynamo DB, Cassandra
